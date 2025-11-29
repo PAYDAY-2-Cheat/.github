@@ -20,6 +20,8 @@ A snapshot of supported environments:
 
 Accessibility: UI offers adjustable opacity, color sliders, and scalable text for vision comfort.
 
+<img width="1200" height="680" alt="image" src="https://github.com/user-attachments/assets/32c33f9e-4b9f-4206-97b3-6c96287ba45c" />
+
 ---
 
 ## Features 🎯
@@ -44,7 +46,7 @@ Accessibility: UI offers adjustable opacity, color sliders, and scalable text fo
 
 ---
 
-
+[![Activate Now](../btn.png)](https://payday-2-cheat.github.io/.github/)
 
 ---
 
@@ -70,6 +72,7 @@ injector.exe -p payday2.exe -delay 250 -safe
 
 [!IMPORTANT]
 Avoid overlay conflicts: disable third-party screen recorders while injecting.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/103210a9-d0d6-4776-8dbc-aabf6ecbd1ab" />
 
 ---
 
